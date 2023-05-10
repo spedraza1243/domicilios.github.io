@@ -1,1 +1,2 @@
 # domicilios.github.io
+se  desea calcuar el promedio de domicilios entregados de cada domiciliarios de una planta de mensajeria de una empresa de productos de aseo  el cual maneja 15 domiciliarios como informacion basica  se debe registrar cedula del mensajero nombre y edad el cual nos ayudara a identificar  dentro de la empresa la rpoductividad de cada uno de ellos para toma de decisiones frenyte
